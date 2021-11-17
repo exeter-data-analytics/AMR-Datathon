@@ -3,7 +3,7 @@ Repository for the AMR Datathon event. Different groups will be able to push the
 
 Organisers:
 
-**Emily Wood** (e.j.wood@exeter.ac.uk)
+**Emily Wood** (e.j.wood@exeter.ac.uk) \n
 **Kyle Wedgwood** (k.c.a.wedgwood@exeter.ac.uk)
 
 Data source: <put web applet here>
